@@ -15,7 +15,7 @@
     "body-parser": "^1.18.3",
     "date-and-time": "^2.4.1",
     "dotenv": "^16.0.2",
-    "express": "^4.16.4",
+    "express": "^4.20.0",
     "jsonwebtoken": "^8.5.1",
     "md5": "^2.3.0",
     "mysql": "^2.18.1"
